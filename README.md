@@ -19,6 +19,7 @@ Preprocessed a real world data set from Kaggle showing the London Crimes from 20
 
 URL: https://www.kaggle.com/jboysen/london-crime
 
+Kindly refer to the pdf report [here](https://github.com/pranshu1921/Coursera_Capstone/blob/master/Capstone%20Project%20-%20Report.pdf) for complete explanation.
 
 ## Setup
 
