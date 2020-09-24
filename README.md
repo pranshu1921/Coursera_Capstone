@@ -1,17 +1,11 @@
 # The Battle of Neighborhoods
-
-
-# The Battle of Neighborhoods
 This repo contains the Capstone Project - The Battle of the Neighborhoods Applied Data Science Capstone by IBM/Coursera
 
 Introduction: Business Problem This project aims to select the safest borough in London based on the total crimes, explore the neighborhoods of that borough to find the 10 most common venues in each neighborhood and finally cluster the neighborhoods using k-mean clustering.
 
 
-
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
@@ -28,8 +22,15 @@ URL: https://www.kaggle.com/jboysen/london-crime
 
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
 
+* Download the Jupyter Notebook above on your computer.
+
+### Install the requirements
+ 
+* Install the requirements using `pip install -r requirements.txt`.
+    * Make sure you use Python 3.
+    
+* Run the jupyter notebook
 
 ## Status
 Project is: Finished
